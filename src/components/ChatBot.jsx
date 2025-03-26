@@ -3,8 +3,8 @@ import styled from "styled-components";
 import axios from "axios";
 import { FiSend, FiUser } from "react-icons/fi";
 import { Bot } from "lucide-react";
-import Enviar from "../assets/enviar.png";
-import oleumlogo from "../Assets/oleumlogo.png";
+import Enviar from "../components/Assets/enviar.png";
+import oleumlogo from "../components/Assets/oleumlogo.png";
 
 const AppContainer = styled.div`
   height: 100vh;
